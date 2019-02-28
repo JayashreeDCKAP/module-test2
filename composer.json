@@ -3,7 +3,7 @@
   "description": "N/A",
   "type": "magento2-module",
   "version": "1.0.0",
-  "minimum-stability": "dev-master",
+  "minimum-stability": "dev",
   "repositories": [{
     "type": "github",
     "url": "https://github.com/JayashreeDCKAP/module-test2"
