@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "repositories": [{
     "type": "github",
-    "url": ""
+    "url": "https://github.com/JayashreeDCKAP/module-test2"
   }
   ],
   "autoload": {
